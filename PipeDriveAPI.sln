@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeDriveAPI", "PipeDriveAPI\PipeDriveAPI.csproj", "{1C88C68D-88C5-415A-B50E-7C8094E82BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeDriveUpload", "PipeDriveUpload\PipeDriveUpload.csproj", "{D4CBB635-EE9E-4C46-8423-0D51009C0052}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PipeDriveAPI_Installer", "PipeDriveAPI_Installer\PipeDriveAPI_Installer.vdproj", "{AD7627F3-868C-416E-9020-7A9757D1AF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C88C68D-88C5-415A-B50E-7C8094E82BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C88C68D-88C5-415A-B50E-7C8094E82BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C88C68D-88C5-415A-B50E-7C8094E82BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C88C68D-88C5-415A-B50E-7C8094E82BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CBB635-EE9E-4C46-8423-0D51009C0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CBB635-EE9E-4C46-8423-0D51009C0052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CBB635-EE9E-4C46-8423-0D51009C0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CBB635-EE9E-4C46-8423-0D51009C0052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7627F3-868C-416E-9020-7A9757D1AF18}.Debug|Any CPU.ActiveCfg = Debug
+		{AD7627F3-868C-416E-9020-7A9757D1AF18}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0B19A8-F6B5-4388-AFCD-8B2C4387940A}
+	EndGlobalSection
+EndGlobal
